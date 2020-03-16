@@ -43,6 +43,11 @@
   </url>
   
   <url>
+    <loc>http://lalaland.buzz/en/notes/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://lalaland.buzz/en/categories/</loc>
     <xhtml:link
                 rel="alternate"
