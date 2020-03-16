@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>http://lalaland.buzz/en/</loc>
+    <lastmod>2020-03-16T12:53:12+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="http://lalaland.buzz/ko/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://lalaland.buzz/en/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://lalaland.buzz/en/posts/2/</loc>
+    <lastmod>2020-03-16T12:53:12+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://lalaland.buzz/en/posts/3/</loc>
+    <lastmod>2020-03-16T12:53:12+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://lalaland.buzz/en/posts/my-first-post/</loc>
+    <lastmod>2020-03-16T12:53:12+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://lalaland.buzz/en/posts/</loc>
+    <lastmod>2020-03-16T12:53:12+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://lalaland.buzz/en/categories/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="http://lalaland.buzz/ko/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://lalaland.buzz/en/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://lalaland.buzz/en/series/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="http://lalaland.buzz/ko/series/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://lalaland.buzz/en/series/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://lalaland.buzz/en/tags/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="http://lalaland.buzz/ko/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://lalaland.buzz/en/tags/"
+                />
+  </url>
+  
+</urlset>
